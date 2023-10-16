@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesThreadgill97
-- 👀 I’m interested in web design, front-end development, and some juicy data analytics thrown in
-- 🌱 I’m currently learning html, css, javascript, and a bit of SQL
+- 👀 I’m interested in all things coding!
+- 🌱 I’m currently learning with La Fosse Academy as a Tech Trainee in their Jacquard cohort, set to graduate 24th November;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
